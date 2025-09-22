@@ -1,10 +1,10 @@
 {
   "/_not-found/page": "/_not-found",
   "/api/hello/route": "/api/hello",
+  "/api/get-file-name/route": "/api/get-file-name",
+  "/api/files/route": "/api/files",
   "/api/files/[filename]/route": "/api/files/[filename]",
   "/api/download/[filename]/route": "/api/download/[filename]",
-  "/api/files/route": "/api/files",
-  "/api/get-file-name/route": "/api/get-file-name",
   "/api/upload-file/route": "/api/upload-file",
   "/page": "/"
 }
