@@ -1,6 +1,6 @@
 {
   "name": "@business-area/file-uploader",
-  "version": "",
+  "version": "0.0.1",
   "description": "Support for multiple file types and sizes",
   "private": true,
   "dependencies": {
