@@ -1,0 +1,24 @@
+{
+  "name": "@business-area/file-uploader",
+  "version": "",
+  "description": "Support for multiple file types and sizes",
+  "private": true,
+  "dependencies": {
+    "@heroui/react": "^2.8.4",
+    "@heroui/theme": "^2.4.22",
+    "@tailwindcss/postcss": "4.1.11",
+    "framer-motion": "^12.23.16",
+    "next": "~15.2.4",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "tailwindcss": "4.1.11"
+  },
+  "scripts": {
+    "bump:patch": "npm version patch --force",
+    "bump:minor": "npm version minor --force",
+    "bump:major": "npm version major --force",
+    "start": "next start",
+    "upgrade": "node upgrade.js",
+    "server": "node server.js"
+  }
+}
