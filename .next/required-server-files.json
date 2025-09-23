@@ -279,7 +279,9 @@
     "htmlLimitedBots": "Mediapartners-Google|Slurp|DuckDuckBot|baiduspider|yandex|sogou|bitlybot|tumblr|vkShare|quora link preview|redditbot|ia_archiver|Bingbot|BingPreview|applebot|facebookexternalhit|facebookcatalog|Twitterbot|LinkedInBot|Slackbot|Discordbot|WhatsApp|SkypeUriPreview",
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.js",
-    "transpilePackages": []
+    "transpilePackages": [
+      "@shared/utils"
+    ]
   },
   "appDir": "/Volumes/Primary/projects/cunguyendev/mela-digital/apps/file-uploader",
   "relativeAppDir": "apps/file-uploader",
