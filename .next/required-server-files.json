@@ -95,7 +95,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "/Users/cunguyen/Documents/mela-digital",
+    "outputFileTracingRoot": "/Volumes/Primary/projects/cunguyendev/mela-digital",
     "experimental": {
       "allowedDevOrigins": [],
       "nodeMiddleware": false,
@@ -153,7 +153,7 @@
       "middlewarePrefetch": "flexible",
       "optimisticClientCache": true,
       "manualClientBasePath": false,
-      "cpus": 7,
+      "cpus": 9,
       "memoryBasedWorkersCount": false,
       "imgOptConcurrency": null,
       "imgOptTimeoutInSeconds": 7,
@@ -174,7 +174,7 @@
       "forceSwcTransforms": false,
       "largePageDataBytes": 128000,
       "turbo": {
-        "root": "/Users/cunguyen/Documents/mela-digital"
+        "root": "/Volumes/Primary/projects/cunguyendev/mela-digital"
       },
       "typedRoutes": false,
       "typedEnv": false,
@@ -283,7 +283,7 @@
       "@shared/utils"
     ]
   },
-  "appDir": "/Users/cunguyen/Documents/mela-digital/apps/file-uploader",
+  "appDir": "/Volumes/Primary/projects/cunguyendev/mela-digital/apps/file-uploader",
   "relativeAppDir": "apps/file-uploader",
   "files": [
     ".next/routes-manifest.json",
@@ -305,6 +305,6 @@
     ".next/server/next-font-manifest.json"
   ],
   "ignore": [
-    "../../node_modules/.pnpm/next@15.2.4_@babel+core@7.28.0_@playwright+test@1.54.1_babel-plugin-macros@3.1.0_react-_11753cc9ef7c193edd445ff45dc6ad6e/node_modules/next/dist/compiled/@ampproject/toolbox-optimizer/**/*"
+    "../../node_modules/.pnpm/next@15.2.4_@babel+core@7.28.4_@playwright+test@1.55.1_babel-plugin-macros@3.1.0_react-_194626a30d9dc989486d6860b63ca4e3/node_modules/next/dist/compiled/@ampproject/toolbox-optimizer/**/*"
   ]
 }
