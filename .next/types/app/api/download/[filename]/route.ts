@@ -1,4 +1,4 @@
-// File: /Volumes/Primary/projects/cunguyendev/mela-digital/apps/file-uploader/src/app/api/download/[filename]/route.ts
+// File: /Users/cunguyen/Documents/mela-digital/apps/file-uploader/src/app/api/download/[filename]/route.ts
 import * as entry from '../../../../../../src/app/api/download/[filename]/route.js'
 import type { NextRequest } from 'next/server.js'
 

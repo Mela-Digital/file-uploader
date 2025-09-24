@@ -95,7 +95,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "/Volumes/Primary/projects/cunguyendev/mela-digital",
+    "outputFileTracingRoot": "/Users/cunguyen/Documents/mela-digital",
     "experimental": {
       "allowedDevOrigins": [],
       "nodeMiddleware": false,
@@ -153,7 +153,7 @@
       "middlewarePrefetch": "flexible",
       "optimisticClientCache": true,
       "manualClientBasePath": false,
-      "cpus": 9,
+      "cpus": 7,
       "memoryBasedWorkersCount": false,
       "imgOptConcurrency": null,
       "imgOptTimeoutInSeconds": 7,
@@ -174,7 +174,7 @@
       "forceSwcTransforms": false,
       "largePageDataBytes": 128000,
       "turbo": {
-        "root": "/Volumes/Primary/projects/cunguyendev/mela-digital"
+        "root": "/Users/cunguyen/Documents/mela-digital"
       },
       "typedRoutes": false,
       "typedEnv": false,
@@ -283,7 +283,7 @@
       "@shared/utils"
     ]
   },
-  "appDir": "/Volumes/Primary/projects/cunguyendev/mela-digital/apps/file-uploader",
+  "appDir": "/Users/cunguyen/Documents/mela-digital/apps/file-uploader",
   "relativeAppDir": "apps/file-uploader",
   "files": [
     ".next/routes-manifest.json",
