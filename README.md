@@ -1,6 +1,9 @@
 # File Uploader
 
-A simple web application for uploading and managing files.
+This is an internal web application that allows users on the same LAN to upload, manage, and share files easily. It provides a simple, intuitive interface to upload various file types (documents, images, videos…), with access control to keep data secure. Because it runs on a local network, file transfers are fast and stable without relying on the Internet.
+
+This is an internal-use product. It can integrate with other storage solutions such as Google File Store, S3, etc.
+If you need the original source code, please contact **meladigital.team@gmail.com**.
 
 ## 🚀 Getting Started
 
@@ -47,3 +50,7 @@ Contributions are welcome! To contribute:
 3. Commit your changes and open a pull request.
 
 For major changes, please open an issue first to discuss what you would like to change.
+
+## Screenshot
+
+<img src="./public/images/file-uploader-preview.png"></img>
