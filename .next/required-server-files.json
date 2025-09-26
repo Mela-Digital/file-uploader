@@ -280,6 +280,8 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.js",
     "transpilePackages": [
+      "@shared/interfaces",
+      "@shared/constants",
       "@shared/utils"
     ]
   },
