@@ -281,8 +281,8 @@
     "configFileName": "next.config.js",
     "transpilePackages": [
       "@shared/interfaces",
-      "@shared/constants",
-      "@shared/utils"
+      "@shared/utils",
+      "@shared/constants"
     ]
   },
   "appDir": "/Volumes/Primary/projects/cunguyendev/mela-digital/apps/file-uploader",
