@@ -9,7 +9,9 @@
   },
   "../../../node_modules/.pnpm/@heroui+modal@2.2.23_@heroui+system@2.4.22_@heroui+theme@2.4.22_tailwindcss@4.1.11__fra_13249f10f98ba25a950df9bef768288f/node_modules/@heroui/modal/dist/chunk-NWAOTABO.mjs -> @heroui/dom-animation": {
     "id": 54032,
-    "files": []
+    "files": [
+      "static/chunks/32.a4e1fcf614901262.js"
+    ]
   },
   "../../../node_modules/.pnpm/@heroui+navbar@2.2.24_@heroui+system@2.4.22_@heroui+theme@2.4.22_tailwindcss@4.1.11__fr_10befd087551916c0d61bfab3456ad38/node_modules/@heroui/navbar/dist/chunk-GACT3GHG.mjs -> @heroui/dom-animation": {
     "id": 54032,
