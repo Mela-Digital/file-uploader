@@ -41,6 +41,14 @@ This ensures that you are using the most up-to-date versions of the packages.
 - [Next.js ➤](https://nextjs.org/) - React framework for production.
 - [pnpm ➤](https://pnpm.io/) - Fast, disk-efficient package manager.
 
+## Custom upload folder
+
+Create a .env file in the root directory. For example:
+
+```env
+UPLOADED_FOLDER=_uploads
+```
+
 ## 🤝 Contributing
 
 Contributions are welcome! To contribute:
